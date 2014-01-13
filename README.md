@@ -2,9 +2,10 @@ Aliencoin - a fork of Litecoin version with fast block time and faster confirmat
 
 	- 30 second block target
 	- Difficulty retargets every 1 hour
-	- Total coins will be around 265 million. 
-	- Each block will have 64 coins per block then decrease 1% per week (or 20,160 blocks) with a minimum reward of 1 ALN.
-	- The default ports are 11081 (connect) and 11082 (json rpc).
+	- Total coins will be around 200 million. 
+	- Each block will have 40 coins per block
+	- Block subsidy halves once per year.
+	- The default ports are 52112 (connect) and 52111 (json rpc).
 
 
 Development process
